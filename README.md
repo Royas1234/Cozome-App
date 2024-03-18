@@ -19,7 +19,7 @@
 ## Users
 -  Users can browse through the list of available properties.
 -  Users use search filters to find properties that match specific criteria.
--  Users can view detailed information and photos for each property.
+-  Users can view detailed information and photos for each property. 
 -  Users can save favorite properties for future reference
 -  Users can see there current location.
 
@@ -74,6 +74,9 @@ cd Cozome-App
 ```shell
 npm install
 ```
+###  4.  Create a .env file in your root directory as described in .env.sample file.
+
+###  5.  Variable such as Google API key is defined in the .env file and it is essential to create this before rinning the application.
 
 ### 4. Run the application:
 
@@ -101,6 +104,8 @@ This project is licensed under the MIT License
 <div>
   <a href= 'https://github.com/Royas1234/Cozome-App/blob/main/LICENCE'><img width="100" alt="License" src= "https://img.shields.io/badge/license-MIT-blue.svg"></a>
 </div
+
+ **Author: Adetunji Rosheedat**
 
 
 </div>
